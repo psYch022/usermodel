@@ -1,0 +1,419 @@
+   
+{
+    "AN": {
+        "name": "Andaman and Nicobar Islands",
+        "native": "Andorra",
+        "phone": "376",
+        "continent": "EU",
+        "capital": "Andorra la Vella",
+        "currency": "EUR",
+        "languages": [
+            "ca"
+        ]
+    },
+    "AP": {
+        "name": "Andhra Pradesh",
+        "native": "دولة الإمارات العربية المتحدة",
+        "phone": "971",
+        "continent": "AS",
+        "capital": "Abu Dhabi",
+        "currency": "AED",
+        "languages": [
+            "ar"
+        ]
+    },
+    "AR": {
+        "name": "Arunachal Pradesh",
+        "native": "افغانستان",
+        "phone": "93",
+        "continent": "AS",
+        "capital": "Kabul",
+        "currency": "AFN",
+        "languages": [
+            "ps",
+            "uz",
+            "tk"
+        ]
+    },
+    "AS": {
+        "name": "Assam",
+        "native": "Antigua and Barbuda",
+        "phone": "1268",
+        "continent": "NA",
+        "capital": "Saint John's",
+        "currency": "XCD",
+        "languages": [
+            "en"
+        ]
+    },
+    "BR": {
+        "name": "Bihar",
+        "native": "Anguilla",
+        "phone": "1264",
+        "continent": "NA",
+        "capital": "The Valley",
+        "currency": "XCD",
+        "languages": [
+            "en"
+        ]
+    },
+    "CG": {
+        "name": "Chandigarh",
+        "native": "Shqipëria",
+        "phone": "355",
+        "continent": "EU",
+        "capital": "Tirana",
+        "currency": "ALL",
+        "languages": [
+            "sq"
+        ]
+    },
+    "CH": {
+        "name": "Chhattisgarh",
+        "native": "Հայաստան",
+        "phone": "374",
+        "continent": "AS",
+        "capital": "Yerevan",
+        "currency": "AMD",
+        "languages": [
+            "hy",
+            "ru"
+        ]
+    },
+    "DH": {
+        "name": "Dadra and Nagar Haveli",
+        "native": "Angola",
+        "phone": "244",
+        "continent": "AF",
+        "capital": "Luanda",
+        "currency": "AOA",
+        "languages": [
+            "pt"
+        ]
+    },
+    "DD": {
+        "name": "Daman and Diu",
+        "native": "Argentina",
+        "phone": "54",
+        "continent": "SA",
+        "capital": "Buenos Aires",
+        "currency": "ARS",
+        "languages": [
+            "es",
+            "gn"
+        ]
+    },
+    "DL": {
+        "name": "Delhi",
+        "native": "American Samoa",
+        "phone": "1684",
+        "continent": "OC",
+        "capital": "Pago Pago",
+        "currency": "USD",
+        "languages": [
+            "en",
+            "sm"
+        ]
+    },
+    "GA": {
+        "name": "Goa",
+        "native": "Österreich",
+        "phone": "43",
+        "continent": "EU",
+        "capital": "Vienna",
+        "currency": "EUR",
+        "languages": [
+            "de"
+        ]
+    },
+    "GJ": {
+        "name": "Gujarat",
+        "native": "Australia",
+        "phone": "61",
+        "continent": "OC",
+        "capital": "Canberra",
+        "currency": "AUD",
+        "languages": [
+            "en"
+        ]
+    },
+    "HR": {
+        "name": "Haryana",
+        "native": "Aruba",
+        "phone": "297",
+        "continent": "NA",
+        "capital": "Oranjestad",
+        "currency": "AWG",
+        "languages": [
+            "nl",
+            "pa"
+        ]
+    },
+    "HP": {
+        "name": "Himachal Pradesh",
+        "native": "Åland",
+        "phone": "358",
+        "continent": "EU",
+        "capital": "Mariehamn",
+        "currency": "EUR",
+        "languages": [
+            "sv"
+        ]
+    },
+    "JK": {
+        "name": "Jammu and Kashmir",
+        "native": "Azərbaycan",
+        "phone": "994",
+        "continent": "AS",
+        "capital": "Baku",
+        "currency": "AZN",
+        "languages": [
+            "az"
+        ]
+    },
+    "JH": {
+        "name": "Jharkhand",
+        "native": "Bosna i Hercegovina",
+        "phone": "387",
+        "continent": "EU",
+        "capital": "Sarajevo",
+        "currency": "BAM",
+        "languages": [
+            "bs",
+            "hr",
+            "sr"
+        ]
+    },
+    "KA": {
+        "name": "Karnataka",
+        "native": "Barbados",
+        "phone": "1246",
+        "continent": "NA",
+        "capital": "Bridgetown",
+        "currency": "BBD",
+        "languages": [
+            "en"
+        ]
+    },
+    "KL": {
+        "name": "Kerala",
+        "native": "Bangladesh",
+        "phone": "880",
+        "continent": "AS",
+        "capital": "Dhaka",
+        "currency": "BDT",
+        "languages": [
+            "bn"
+        ]
+    },
+    "LD": {
+        "name": "Lakshadweep",
+        "native": "België",
+        "phone": "32",
+        "continent": "EU",
+        "capital": "Brussels",
+        "currency": "EUR",
+        "languages": [
+            "nl",
+            "fr",
+            "de"
+        ]
+    },
+    "MP": {
+        "name": "Madhya Pradesh",
+        "native": "Burkina Faso",
+        "phone": "226",
+        "continent": "AF",
+        "capital": "Ouagadougou",
+        "currency": "XOF",
+        "languages": [
+            "fr",
+            "ff"
+        ]
+    },
+    "MH": {
+        "name": "Maharashtra",
+        "native": "България",
+        "phone": "359",
+        "continent": "EU",
+        "capital": "Sofia",
+        "currency": "BGN",
+        "languages": [
+            "bg"
+        ]
+    },
+    "MN": {
+        "name": "Manipur",
+        "native": "‏البحرين",
+        "phone": "973",
+        "continent": "AS",
+        "capital": "Manama",
+        "currency": "BHD",
+        "languages": [
+            "ar"
+        ]
+    },
+    "ML": {
+        "name": "Meghalaya",
+        "native": "Burundi",
+        "phone": "257",
+        "continent": "AF",
+        "capital": "Bujumbura",
+        "currency": "BIF",
+        "languages": [
+            "fr",
+            "rn"
+        ]
+    },
+    "MZ": {
+        "name": "Mizoram",
+        "native": "Bénin",
+        "phone": "229",
+        "continent": "AF",
+        "capital": "Porto-Novo",
+        "currency": "XOF",
+        "languages": [
+            "fr"
+        ]
+    },
+    "NL": {
+        "name": "Nagaland",
+        "native": "Saint-Barthélemy",
+        "phone": "590",
+        "continent": "NA",
+        "capital": "Gustavia",
+        "currency": "EUR",
+        "languages": [
+            "fr"
+        ]
+    },
+    "OR": {
+        "name": "Odisha",
+        "native": "Bermuda",
+        "phone": "1441",
+        "continent": "NA",
+        "capital": "Hamilton",
+        "currency": "BMD",
+        "languages": [
+            "en"
+        ]
+    },
+    "PY": {
+        "name": "Puducherry",
+        "native": "Negara Brunei Darussalam",
+        "phone": "673",
+        "continent": "AS",
+        "capital": "Bandar Seri Begawan",
+        "currency": "BND",
+        "languages": [
+            "ms"
+        ]
+    },
+    "PB": {
+        "name": "Punjab",
+        "native": "Bolivia",
+        "phone": "591",
+        "continent": "SA",
+        "capital": "Sucre",
+        "currency": "BOB,BOV",
+        "languages": [
+            "es",
+            "ay",
+            "qu"
+        ]
+    },
+    "RJ": {
+        "name": "Rajasthan",
+        "native": "Bonaire",
+        "phone": "5997",
+        "continent": "NA",
+        "capital": "Kralendijk",
+        "currency": "USD",
+        "languages": [
+            "nl"
+        ]
+    },
+    "SK": {
+        "name": "Sikkim",
+        "native": "Brasil",
+        "phone": "55",
+        "continent": "SA",
+        "capital": "Brasília",
+        "currency": "BRL",
+        "languages": [
+            "pt"
+        ]
+    },
+    "TN": {
+        "name": "Tamil Nadu",
+        "native": "Bahamas",
+        "phone": "1242",
+        "continent": "NA",
+        "capital": "Nassau",
+        "currency": "BSD",
+        "languages": [
+            "en"
+        ]
+    },
+    "TS": {
+        "name": "Telangana",
+        "native": "ʼbrug-yul",
+        "phone": "975",
+        "continent": "AS",
+        "capital": "Thimphu",
+        "currency": "BTN,INR",
+        "languages": [
+            "dz"
+        ]
+    },
+    "TR": {
+        "name": "Tripura",
+        "native": "Botswana",
+        "phone": "267",
+        "continent": "AF",
+        "capital": "Gaborone",
+        "currency": "BWP",
+        "languages": [
+            "en",
+            "tn"
+        ]
+    },
+    "UP": {
+        "name": "Uttar Pradesh",
+        "native": "Белару́сь",
+        "phone": "375",
+        "continent": "EU",
+        "capital": "Minsk",
+        "currency": "BYN",
+        "languages": [
+            "be",
+            "ru"
+        ]
+    },
+    "UK": {
+        "name": "Uttarakhand",
+        "native": "Belize",
+        "phone": "501",
+        "continent": "NA",
+        "capital": "Belmopan",
+        "currency": "BZD",
+        "languages": [
+            "en",
+            "es"
+        ]
+    },
+    "WB": {
+        "name": "West Bengal",
+        "native": "Canada",
+        "phone": "1",
+        "continent": "NA",
+        "capital": "Ottawa",
+        "currency": "CAD",
+        "languages": [
+            "en",
+            "fr"
+        ]
+    }
+   
+    
+}

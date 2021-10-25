@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "912226677565",
+    "project_id": "thaartransport-5fd49",
+    "storage_bucket": "thaartransport-5fd49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912226677565:android:945080e0f65150f8ce4b54",
+        "android_client_info": {
+          "package_name": "com.example.thaartransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912226677565-603t8nuatgqepuhkjs91t7o3brtmrdc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thaartransport",
+            "certificate_hash": "5dcd0aa53e631379bd958be499105d67f2f23854"
+          }
+        },
+        {
+          "client_id": "912226677565-6k4f2di27baif62kpl80p91n23vjd56p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcG67Q1sfmiP0fEb1bRlfa1V-9Ni89leU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912226677565-6k4f2di27baif62kpl80p91n23vjd56p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
